@@ -6,7 +6,13 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
+    siteTitle: `Gia Đình Tối Giản`,
     siteTitleAlt: `Gia Đình Tối Giản - The Minimalist Family`,
+    siteHeadline: `Gia Đình Tối Giản - The Minimalist Family`,
+    siteUrl: `https://giadinhtoigian.com`,
+    siteDescription: `Hành trình đơn giản hoá cuộc sống gia đình.`,
+    siteLanguage: `vi`,
+    author: `@antranapp`,
   },
   plugins: [
     {
