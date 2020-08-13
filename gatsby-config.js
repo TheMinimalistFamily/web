@@ -21,11 +21,11 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `Blog`,
+            title: `Bài viết`,
             slug: `/blog`,
           },
           {
-            title: `About`,
+            title: `Giới thiệu`,
             slug: `/about`,
           },
         ],
