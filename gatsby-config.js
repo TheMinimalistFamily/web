@@ -44,7 +44,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Gia Đình Tối Giản`,
-        short_name: `Gia Đình Tối Giản`,
+        short_name: `gia-dinh-toi-gian`,
         description: `Blog của gia đình An, Liên, Manuel và Marie kể về lối sống tối giản.`,
         start_url: `/`,
         background_color: `#fff`,

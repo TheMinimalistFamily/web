@@ -41,7 +41,7 @@ Sau khi hai vợ chồng thảo luận, bọn mình quyết định sẽ bắt �
 
 Đầu năm 2020, gia đình mình có kế hoạch di chuyển sang Singapore để sinh sống và làm việc. Rất tiếc vì COVID-19, Singapore đóng của, bọn mình đã phải chờ đến tháng 8 năm 2020 mới có thể bay qua Singapore được.
 
-Blog này được vợ chồng mình lập ra trong lúc đang ở khu cách ly 14 ngày ở Singapore như một dấu móc cho sự khởi đầu của hành trình bắt đầu cuộc sống mới, cuộc sống tối giản cho cả gia đình mình.
+Blog này được vợ chồng mình lập ra trong lúc đang ở khu cách ly 14 ngày ở Singapore như một dấu mốc cho sự khởi đầu của hành trình bắt đầu cuộc sống mới, cuộc sống tối giản cho cả gia đình mình.
 
 Mục đích chính của blog là chia sẻ những bài học, khó khăn cũng như những trải nghiệm khí bọn mình tối giản hoá cuộc sống. Bọn mình cũng mong muốn sử dụng blog để lưu giữ lại những khoảnh khắc gia đình như một cuốn nhật ký để các con khi lớn lên sẽ hiểu được mục đích và hành trình cả gia đình cùng nhau trải qua để có được cuốc sống tối giản.
 
