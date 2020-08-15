@@ -44,3 +44,5 @@ Sau khi hai vợ chồng thảo luận, bọn mình quyết định sẽ bắt �
 Blog này được vợ chồng mình lập ra trong lúc đang ở khu cách ly 14 ngày ở Singapore như một dấu móc cho sự khởi đầu của hành trình bắt đầu cuộc sống mới, cuộc sống tối giản cho cả gia đình mình.
 
 Mục đích chính của blog là chia sẻ những bài học, khó khăn cũng như những trải nghiệm khí bọn mình tối giản hoá cuộc sống. Bọn mình cũng mong muốn sử dụng blog để lưu giữ lại những khoảnh khắc gia đình như một cuốn nhật ký để các con khi lớn lên sẽ hiểu được mục đích và hành trình cả gia đình cùng nhau trải qua để có được cuốc sống tối giản.
+
+Mỗi gia đình, mỗi cá nhân đều có hoàn cảnh và điều kiện khác nhau. Tuy nhiên bọn mình hy vọng các bài chia sẻ trên blog ít nhất sẽ tạo được cảm hứng về cuộc sống tối giản cho độc giả. Mỗi cá nhân và gia đình cuối cùng sẽ phải tự tìm ra hành trình tối giản hoá cuộc sống cho riêng mình.
