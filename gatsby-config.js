@@ -12,7 +12,7 @@ module.exports = {
     siteUrl: `https://giadinhtoigian.com`,
     siteDescription: `Hành trình đơn giản hoá cuộc sống gia đình.`,
     siteLanguage: `vi`,
-    author: `@antranapp`,
+    author: `@AnTran`,
   },
   plugins: [
     {
@@ -65,6 +65,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
+    `gatsby-plugin-gatsby-cloud`,
     `gatsby-plugin-netlify`,
     shouldAnalyseBundle && {
       resolve: `gatsby-plugin-webpack-bundle-analyser-v2`,
