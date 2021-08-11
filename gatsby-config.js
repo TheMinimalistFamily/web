@@ -50,7 +50,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Gia Đình Tối Giản`,
-        short_name: `GDTG`,
+        short_name: `gia-dinh-toi-gian`,
         description: `Lối sống tối giản của gia đình An, Liên, Manuel, Marie`,
         start_url: `/`,
         background_color: `#fff`,
