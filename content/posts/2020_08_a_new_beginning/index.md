@@ -4,8 +4,6 @@ date: 2020-08-07
 slug: "/mot-khoi-dau-moi-song-toi-gian"
 ---
 
-# Một khởi đầu mới: Sống đơn giản 
-
 ![Flight To Singapore](flight_to_sg.jpg)
 
 ## Khởi nguồn cảm hứng
