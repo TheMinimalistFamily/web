@@ -22,16 +22,7 @@ module.exports = {
             slug: `/about`,
           },
         ],
-        externalLinks: [
-          {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
-          },
-          {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
-          },
-        ],
+        externalLinks: [],
       },
     },
     {
@@ -47,12 +38,6 @@ module.exports = {
             file: `https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap`,
           },
         ],
-      },
-    },
-    googleAnalyticsTrackingId && {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID,
       },
     },
     `gatsby-plugin-sitemap`,
