@@ -1,11 +1,16 @@
 require(`dotenv`).config()
 
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
-const googleAnalyticsTrackingId = process.env.GOOGLE_ANALYTICS_ID
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Gia Đình Tối Giản`,
+    siteTitleAlt: `Gia Đình Tối Giản - The Minimalist Family`,
+    siteHeadline: `Gia Đình Tối Giản - The Minimalist Family`,
+    siteUrl: `https://giadinhtoigian.com`,
+    siteDescription: `Hành trình đơn giản hoá cuộc sống gia đình.`,
+    siteLanguage: `vi`,
+    author: `@AnTran`,
   },
   plugins: [
     {
@@ -14,11 +19,11 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `Blog`,
+            title: `Bài viết`,
             slug: `/blog`,
           },
           {
-            title: `About`,
+            title: `Giới thiệu`,
             slug: `/about`,
           },
         ],
@@ -44,9 +49,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Gia Đình Tối Giản`,
+        short_name: `GDTG`,
+        description: `Lối sống tối giản của gia đình An, Liên, Manuel, Marie`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
