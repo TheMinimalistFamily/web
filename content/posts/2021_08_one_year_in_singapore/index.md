@@ -1,3 +1,9 @@
+---
+title: "Một năm ở Singapore"
+date: 2021-08-07
+slug: "/mot-nam-o-singapore"
+---
+
 Hôm nay là 07.08.2021, tròn đúng một năm gia đình tôi đặt chân đến Singapore.
 
 Tôi chợt nhận ra là bài viết duy nhất trên blog được viết cách đây đúng 1 năm, ngày gia đình vừa đặt chân đến Singapore và đang phải ở 14 ngày trong khách sạn trước khi được đi ra ngoài.
@@ -10,11 +16,11 @@ Vừa đặt chân đến Singapore, hoàn thành xong thủ tục nhập cảnh
 
 Nhưng có một điều có thể làm quen ngay được là sống trong phòng điều hoà. Ở Đức, nhà tôi tận dụng không khí tự nhiên nhiều nhất có thể. Kể cả mùa đông, khi thời tiết lạnh phải bật lò sưởi, gia đình tôi cũng cố gắng mở cửa sổ thông gió thường xuyên.
 
-![[iso1.jpeg]]
+![](iso1.jpeg)
 
 Sống trong khách sạn thời tiết nóng bức và không có cửa sổ, điều hoà là không thể tránh khỏi. Nhưng chính vì thế mà được mấy ngày, 2 đứa trẻ nhà tôi có dấu hiệu sổ mũi, sốt. Các bạn Sing tưởng bị nhiễm virus Corona nên hộ tống cả nhà đi xét nghiệm. Rất may là không ai bị làm sao, nhưng tôi đã xin chuyển cả gia đình sang một khách sạn mới, có ban công để thông thoáng hơn. Rất may yêu cầu này đã được chấp nhận. Cả gia đình vui vẻ tận hưởng nốt máy ngày sống trong khách sạn 5 sao, nhìn thẳng ra Marina Bay nổi tiếng của Singapore.
 
-![[iso2.jpeg]]
+![](iso2.jpeg)
 
 # Hoà nhập cuộc sống
 
@@ -28,17 +34,17 @@ Nhà ở Singapore được chia thành một số loại như HDB, Condo, Lande
 
 Nhà của gia đình tôi hiện đang ở là một Condo, với khoảng 100 Units. Đặc điểm nhận diện của Condo là có bể bơi riêng, phòng tập Gym, khu nước thịt và khu vui chơi của trẻ em. 
 
-![[lanai.jpeg]]
+![](lanai.jpeg)
 
 Phải nói là gia đình tôi khá măn máy khi thuê được một căn hộ trong khu Condo hiện tại, vì khung cảnh của nó chẳng khác mấy một khu resort 5 sao, đặc biệt hữu ích vì Singapore thường xuyên ở trong tình trạng lockdown, cấm mọi người đi ra ngoài trong suốt thời gian 1 năm gia đình tôi ở đây. Đặc biệt là 2 em bé nhà tôi rất thích bơi nên cái bể bơi đẹp bù đắp được phần nào thiếu hụt của việc cả năm không được đi du lịch.
 
-![[lanai2.jpeg]]
+![](lanai2.jpeg)
 
 ## Khí hậu
 
 Khí hậu Singapore dễ dàng được miêu tả bằng một từ: Nóng!
 
-![[sun.jpeg]]
+![](sun.jpeg)
 
 Thời tiết quoanh năm khá nóng, vào mùa hè còn nóng hơn. Gia đình tôi không quen sử dụng điều hoà nhưng nhiều đêm nóng quá, không thể ngủ được nên tôi cũng đành phải bật để làm dịu bớt cái nóng.
 
@@ -50,11 +56,11 @@ Singapore nổi tiếng với các chợ Hawker. Hawker food court là các khu 
 
 Trong nhà có mỗi mình tôi thích ăn đồ châu Á nên có thể nói việc chuyển về Singapore là bước tiến nâng cấp vượt bậc về ăn uống cho tôi. 
 
-![[eating.jpeg]]
+![](eating.jpeg)
 
 Tuy nhiên vợ và 2 em bé của nhà tôi lại thích ăn đồ châu Âu, đặc biệt là bánh mỳ Đức nên gia đình tôi cũng hay đi chợ Đức để mua đồ ăn của Đức. Tôi cũng được thơm lây vì thỉnh thoảng lại được uống bia Đức. Nói về bia thì phải nói là bia Đức ăn đứt bia Singapore cả về giá lẫn chủng loại và hương vị. 
 
-![[german.jpeg]]
+![](german.jpeg)
 
 Về đồ uống ở Singapore thì chắc không thể không nhắc đến Bubble Tea, rất thích hợp cho mục đích giải khát, đặc biệt là trong thời tiết nóng bức của Singapore.
 
@@ -66,11 +72,11 @@ Singapore nổi tiềng vì duy trì được nhiều diện tích cây xanh, m�
 
 Singapore được bao quanh là biển nhưng không có nhiều bãi biển để tắm vì đường bờ biển chủ yếu được dùng vào mục đích công nghiệp. Có lẽ bãi biển đẹp nhất của Singapore là ở hòn đào Sentosa. Các em bé nhà tôi cũng rất thích bãi biển này nên nhà tôi đi ra đây khá thường xuyên.
 
-![[sentosa2.jpeg]]
+![](sentosa2.jpeg)
 
 Một chỗ vui chơi khá phổ biến nữa mà gia đình tôi hay lui tới là Changi Jewel. Đây là một trung tâm mua sắm khá nổi tiếng ở Singpore, nằm nay cạnh sân bay Changi. Điểm nổi bật ở đây là một thác nhân tạo nữa khổng lồ nằm chính giữa, hệ sinh thái cây vườn trong nhà và một khu vui chơi giải cho trẻ con trên tầng trên cùng.
 
-![[jewel.jpeg]]
+![](jewel.jpeg)
 
 ## Xã hội
 
@@ -80,17 +86,17 @@ Nhà tôi hoà nhập khá nhanh với cuộc sống và các mối quan hệ x�
 
 Tôi dễ dàng làm quen với các đồng nghiệp đến từ nhiều quốc gia khác nhau. Cộng đồng người Việt Nam làm việc ở Singapore cũng khá đông nên tôi cũng dễ dàng làm quen được với nhiều bạn mới. 
 
-![[friend1.jpeg]]
+![](friend1.jpeg)
 
 Vợ tôi cũng thiết lập được nhiều mối quan hệ thông qua các hoạt động học hành của các con và ở nhà thờ. 
 
 Hai bạn bé nhà tôi đi học ở trường nên cũng có bạn mới. Đặc biệt hai em bé bắt đầu quen với ngôn ngữ mới và sử dụng tiếng Anh thường xuyên hơn.
 
-![[montesory.jpeg]]
+![](montesory.jpeg)
 
 Đặc biệt vợ tôi có giao lưu homeschooling với một số gia đình khác tại Singapore, đại loại là mỗi nhà dạy trẻ con nhà khác một thứ gì đó. Vợ tôi có thể giúp dạy tiếng Đức, chiều ngược lại, các em bé nhà tôi được đi học nhạc.
 
-![[friends2.jpeg]]
+![](friend2.jpeg)
 
 Điểm khác biệt dễ nhận thấy giữa Singapore và Đức là người dân Singapore "nghe lời" chính phủ hơn ở Đức. Ở đây, đi đâu tôi cũng nhìn thấy biểu ngữ và băng rôn chính phủ cổ động cho việc giữ gìn vệ sinh, trật tự cũng như "đe doạ" việc bị phạt nếu vi phạm. Ở đây một năm tôi cũng chưa thấy một cuộc biểu tình nào, cũng không biết là Singapore có cho phép dân biểu tình không nữa.  Ở châu Âu, những nước như Đức, Pháp thì chắc hàng tháng lại có biểu tình này nọ, không lớn thì nhỏ.
 
