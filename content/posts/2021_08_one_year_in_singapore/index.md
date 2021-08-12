@@ -12,7 +12,7 @@ Bài viết này tổng kết lại hành trình một năm của gia đình t�
 
 # Môi trường sống cách ly
 
-Vừa đặt chân đến Singapore, hoàn thành xong thủ tục nhập cảnh, cả nhà tôi phải lên được vào khách sạn ở  14 ngày luôn nên cũng không có nhiều thời gian để làm quen với môi trường và thời tiết ở Singapore.
+Vừa đặt chân đến Singapore, hoàn thành xong thủ tục nhập cảnh, cả nhà tôi phải lên được vào khách sạn ở 14 ngày luôn nên cũng không có nhiều thời gian để làm quen với môi trường và thời tiết ở Singapore.
 
 Nhưng có một điều có thể làm quen ngay được là sống trong phòng điều hoà. Ở Đức, nhà tôi tận dụng không khí tự nhiên nhiều nhất có thể. Kể cả mùa đông, khi thời tiết lạnh phải bật lò sưởi, gia đình tôi cũng cố gắng mở cửa sổ thông gió thường xuyên.
 
@@ -30,13 +30,13 @@ Công việc đầu tiên của hai vợ chồng trước khi hết thời hạn
 
 Nếu so sánh với ở Đức, khi chúng tôi phải xếp hàng dài để được, nộp đủ thứ giấy tờ để chứng mình tài chính, rồi cuối cùng là hồi hộp chờ đợi vào may mắn để chủ nhà chấp nhận cho thuê thì trải nghiệm thuê nhà ở Singapore rõ ràng là dễ hơn nhiều.
 
-Nhà ở Singapore được chia thành một số loại như HDB, Condo, Landed, mỗi loại lại có những công trình phụ trợ  kèm theo khác nhau và giá cả cũng khác nhau. Đa số mọi người ở các khu nhà tập thể như HDB hay Condo vì đất đai khan hiếm. Thường các khu nhà HDB và Condo có rất nhiều toà nhà cao tầng với số lượng units lớn.
+Nhà ở Singapore được chia thành một số loại như HDB, Condo, Landed, mỗi loại lại có những công trình phụ trợ kèm theo khác nhau và giá cả cũng khác nhau. Đa số mọi người ở các khu nhà tập thể như HDB hay Condo vì đất đai khan hiếm. Thường các khu nhà HDB và Condo có rất nhiều toà nhà cao tầng với số lượng units lớn.
 
-Nhà của gia đình tôi hiện đang ở là một Condo, với khoảng 100 Units. Đặc điểm nhận diện của Condo là có bể bơi riêng, phòng tập Gym, khu nước thịt và khu vui chơi của trẻ em. 
+Nhà của gia đình tôi hiện đang ở là một Condo, với khoảng 100 Units. Đặc điểm nhận diện của Condo là có bể bơi riêng, phòng tập Gym, khu nướng thịt và khu vui chơi của trẻ em. 
 
 ![](lanai.jpeg)
 
-Phải nói là gia đình tôi khá măn máy khi thuê được một căn hộ trong khu Condo hiện tại, vì khung cảnh của nó chẳng khác mấy một khu resort 5 sao, đặc biệt hữu ích vì Singapore thường xuyên ở trong tình trạng lockdown, cấm mọi người đi ra ngoài trong suốt thời gian 1 năm gia đình tôi ở đây. Đặc biệt là 2 em bé nhà tôi rất thích bơi nên cái bể bơi đẹp bù đắp được phần nào thiếu hụt của việc cả năm không được đi du lịch.
+Phải nói là gia đình tôi khá may mắn khi thuê được một căn hộ trong khu Condo hiện tại, vì khung cảnh của nó chẳng khác mấy một khu resort 5 sao, đặc biệt hữu ích vì Singapore thường xuyên ở trong tình trạng lockdown, cấm mọi người đi ra ngoài trong suốt thời gian 1 năm gia đình tôi ở đây. Đặc biệt là 2 em bé nhà tôi rất thích bơi nên cái bể bơi đẹp bù đắp được phần nào thiếu hụt của việc cả năm không được đi du lịch.
 
 ![](lanai2.jpeg)
 
