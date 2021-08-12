@@ -18,7 +18,7 @@ Nhưng có một điều có thể làm quen ngay được là sống trong phò
 
 ![](iso1.jpeg)
 
-Sống trong khách sạn thời tiết nóng bức và không có cửa sổ, điều hoà là không thể tránh khỏi. Nhưng chính vì thế mà được mấy ngày, 2 đứa trẻ nhà tôi có dấu hiệu sổ mũi, sốt. Các bạn Sing tưởng bị nhiễm virus Corona nên hộ tống cả nhà đi xét nghiệm. Rất may là không ai bị làm sao, nhưng tôi đã xin chuyển cả gia đình sang một khách sạn mới, có ban công để thông thoáng hơn. Rất may yêu cầu này đã được chấp nhận. Cả gia đình vui vẻ tận hưởng nốt máy ngày sống trong khách sạn 5 sao, nhìn thẳng ra Marina Bay nổi tiếng của Singapore.
+Sống trong khách sạn thời tiết nóng bức và không có cửa sổ, điều hoà là không thể tránh khỏi. Nhưng chính vì thế mà được mấy ngày, 2 đứa trẻ nhà tôi có dấu hiệu sổ mũi, sốt. Các bạn Sing tưởng bị nhiễm virus Corona nên hộ tống cả nhà đi xét nghiệm. Rất may là không ai bị làm sao, nhưng tôi đã xin chuyển cả gia đình sang một khách sạn mới, có ban công để thông thoáng hơn. Rất may yêu cầu này đã được chấp nhận. Cả gia đình vui vẻ tận hưởng nốt mấy ngày sống trong khách sạn 5 sao, nhìn thẳng ra Marina Bay nổi tiếng của Singapore.
 
 ![](iso2.jpeg)
 
@@ -28,7 +28,7 @@ Sống trong khách sạn thời tiết nóng bức và không có cửa sổ, �
 
 Công việc đầu tiên của hai vợ chồng trước khi hết thời hạn là thuê nhà. So với thuê nhà ở Đức, thuê nhà ở Singapore dễ dàng hơn rất nhiều. Vợ tôi lên web tìm các nhà cho thuê, gọi điện liên hệ với Agent, sắp xếp xem nhà qua Whatsapp, gửi rồi ký hợp đồng tất cả đều online mà không gặp Agent trực tiếp lần nào. 
 
-Nếu so sánh với ở Đức, khi chúng tôi phải xếp hàng dài để được, nộp đủ thứ giấy tờ để chứng mình tài chính, rồi cuối cùng là hồi hộp chờ đợi vào may mắn để chủ nhà chấp nhận cho thuê thì trải nghiệm thuê nhà ở Singapore rõ ràng là dễ hơn nhiều.
+Nếu so sánh với ở Đức, khi chúng tôi phải xếp hàng dài để được nộp đủ thứ giấy tờ để chứng mình tài chính, rồi cuối cùng là hồi hộp chờ đợi vào may mắn để chủ nhà chấp nhận cho thuê thì trải nghiệm thuê nhà ở Singapore rõ ràng là dễ hơn nhiều.
 
 Nhà ở Singapore được chia thành một số loại như HDB, Condo, Landed, mỗi loại lại có những công trình phụ trợ kèm theo khác nhau và giá cả cũng khác nhau. Đa số mọi người ở các khu nhà tập thể như HDB hay Condo vì đất đai khan hiếm. Thường các khu nhà HDB và Condo có rất nhiều toà nhà cao tầng với số lượng units lớn.
 
@@ -46,7 +46,7 @@ Khí hậu Singapore dễ dàng được miêu tả bằng một từ: Nóng!
 
 ![](sun.jpeg)
 
-Thời tiết quoanh năm khá nóng, vào mùa hè còn nóng hơn. Gia đình tôi không quen sử dụng điều hoà nhưng nhiều đêm nóng quá, không thể ngủ được nên tôi cũng đành phải bật để làm dịu bớt cái nóng.
+Thời tiết quanh năm khá nóng, vào mùa hè còn nóng hơn. Gia đình tôi không quen sử dụng điều hoà nhưng nhiều đêm nóng quá, không thể ngủ được nên tôi cũng đành phải bật để làm dịu bớt cái nóng.
 
 Tôi cũng khá bất ngờ vì lượng mưa khá nhiều ở Singapore. Có thể nói thời tiết ở Singapore khá giống với thời tiết ở thành phố Hồ Chí Minh, Việt Nam.
 
